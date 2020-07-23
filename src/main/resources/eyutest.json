@@ -1,0 +1,4867 @@
+[{
+	"_id": "586d23555f0712767415ae2b",
+	"createdAt": "2017-02-21T17:34:57.669Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 1,
+	"hide": false,
+	"name": "Fonetica 发音（上）",
+	"updatedAt": "2020-05-25T01:50:23.609Z",
+	"description": "",
+	"actions": {
+		"watch": false,
+		"download": false
+	},
+	"seo": {},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"edDuration": 0,
+	"isPreset": false,
+	"opDuration": 0,
+	"source": {},
+	"children": [{
+		"_id": "586d23535f0712767415919f",
+		"createdAt": "2017-02-21T17:34:57.694Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae2b",
+		"order": 1,
+		"hide": false,
+		"name": "西语初印象",
+		"updatedAt": "2019-09-24T18:46:03.930Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"edDuration": 3,
+		"opDuration": 1,
+		"isPreset": true,
+		"videoDuration": 697.199999,
+		"videoSize": {
+			"mobileMid": 55732,
+			"mobileLow": 55732,
+			"pcMid": 55732,
+			"pcLow": 55732,
+			"pcHigh": 55728
+		},
+		"audioDuration": 697.260375,
+		"audioSize": 11156.211,
+		"progress": 0,
+		"hasTopic": false,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158fc9",
+		"createdAt": "2017-02-21T17:34:57.691Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae2b",
+		"order": 2,
+		"hide": false,
+		"name": "课程介绍",
+		"updatedAt": "2019-09-25T00:38:25.164Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"edDuration": 3,
+		"opDuration": 1,
+		"isPreset": true,
+		"videoDuration": 130.6,
+		"videoSize": {
+			"pcHigh": 10436,
+			"mobileLow": 10436,
+			"pcMid": 10436,
+			"mobileMid": 10436,
+			"pcLow": 10436
+		},
+		"audioDuration": 130.612188,
+		"audioSize": 2089.84,
+		"progress": 0,
+		"hasTopic": false,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415868c",
+		"createdAt": "2017-02-21T17:34:57.679Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae2b",
+		"order": 3,
+		"hide": false,
+		"name": "字母表",
+		"updatedAt": "2019-09-24T18:45:28.502Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 486.94,
+		"videoSize": {
+			"mobileLow": 40300,
+			"pcMid": 40296,
+			"pcLow": 40296,
+			"mobileMid": 40300,
+			"pcHigh": 40296
+		},
+		"audioDuration": 487.026938,
+		"audioSize": 7792.476,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415868b",
+		"createdAt": "2017-02-21T17:34:57.673Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae2b",
+		"order": 4,
+		"hide": false,
+		"name": "元音a,e,i；辅音l,m,n",
+		"updatedAt": "2019-09-24T20:07:04.949Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 650.42,
+		"videoSize": {
+			"mobileLow": 53896,
+			"mobileMid": 53896,
+			"pcLow": 53896,
+			"pcHigh": 53896,
+			"pcMid": 53896
+		},
+		"audioDuration": 650.501188,
+		"audioSize": 10408.064,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415868d",
+		"createdAt": "2017-02-21T17:34:57.683Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae2b",
+		"order": 5,
+		"hide": false,
+		"name": "元音o,u和辅音p,s,t",
+		"updatedAt": "2020-05-20T09:58:38.258Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 693.24,
+		"videoSize": {
+			"mobileLow": 57396,
+			"pcLow": 57396,
+			"pcMid": 57396,
+			"mobileMid": 57396,
+			"pcHigh": 57396
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 693.315918,
+		"audioSize": 11093.516,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FF4E019C88",
+		"audioSavedKey": "8a9f8ba4cd3ff0284784f85a36f628c3.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415ae35",
+	"createdAt": "2017-02-21T17:34:57.757Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 2,
+	"hide": false,
+	"name": "Fonetica 发音 （中）",
+	"updatedAt": "2020-05-25T01:50:17.758Z",
+	"description": "",
+	"actions": {
+		"watch": false,
+		"download": false
+	},
+	"seo": {},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"edDuration": 0,
+	"isPreset": false,
+	"opDuration": 0,
+	"source": {},
+	"children": [{
+		"_id": "586d23535f071276741586a1",
+		"createdAt": "2017-02-21T17:34:57.763Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae35",
+		"order": 1,
+		"hide": false,
+		"name": "辅音d,b,v和c,q,k,g",
+		"updatedAt": "2020-05-20T09:04:36.620Z",
+		"actions": {
+			"download": false,
+			"watch": true
+		},
+		"videoDuration": 1418.92,
+		"videoSize": {
+			"mobileMid": 117404,
+			"mobileLow": 117404,
+			"pcLow": 117404,
+			"pcMid": 117404,
+			"pcHigh": 117404
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1418.997551,
+		"audioSize": 22704.422,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F2A4FE7171",
+		"audioSavedKey": "2c5cc59d113d213f923706cde2d50cf9.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"isPreset": true,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741586a2",
+		"createdAt": "2017-02-21T17:34:57.771Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae35",
+		"order": 2,
+		"hide": false,
+		"name": "清浊音复习对比",
+		"updatedAt": "2019-09-24T21:31:05.201Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 436.28,
+		"videoSize": {
+			"pcHigh": 34756,
+			"mobileLow": 34756,
+			"mobileMid": 34756,
+			"pcMid": 34756,
+			"pcLow": 34756
+		},
+		"audioDuration": 436.349375,
+		"audioSize": 6981.635,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741586b2",
+		"createdAt": "2017-02-21T17:34:57.776Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae35",
+		"order": 3,
+		"hide": false,
+		"name": "辅音 r c z j g",
+		"updatedAt": "2020-05-20T08:15:11.242Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 933.56,
+		"videoSize": {
+			"pcHigh": 74480,
+			"mobileLow": 74480,
+			"mobileMid": 74480,
+			"pcMid": 74480,
+			"pcLow": 74480
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 933.616327,
+		"audioSize": 14938.323,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC4E70FFB0F54",
+		"audioSavedKey": "c0bac253713ecbedca786867ad79c9e0.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741586b3",
+		"createdAt": "2017-02-21T17:34:57.778Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae35",
+		"order": 4,
+		"hide": false,
+		"name": "辅音 f ñ h x w ch y ll",
+		"updatedAt": "2019-09-24T19:30:57.455Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 797,
+		"videoSize": {
+			"mobileMid": 63560,
+			"pcMid": 63560,
+			"mobileLow": 63560,
+			"pcLow": 63560,
+			"pcHigh": 63560
+		},
+		"audioDuration": 797.07425,
+		"audioSize": 12753.233,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415ae43",
+	"createdAt": "2017-02-21T17:34:57.844Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 3,
+	"hide": false,
+	"name": "Fonetica 发音（下）",
+	"updatedAt": "2020-05-25T01:50:27.973Z",
+	"description": "",
+	"actions": {
+		"watch": false,
+		"download": false
+	},
+	"seo": {},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"edDuration": 0,
+	"isPreset": false,
+	"opDuration": 0,
+	"source": {},
+	"children": [{
+		"_id": "586d23535f071276741586c0",
+		"createdAt": "2017-02-21T17:34:57.847Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae43",
+		"order": 1,
+		"hide": false,
+		"name": "复合元音",
+		"updatedAt": "2020-05-20T08:50:13.343Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 541.08,
+		"videoSize": {
+			"mobileLow": 41732,
+			"pcLow": 41728,
+			"mobileMid": 41732,
+			"pcHigh": 41728,
+			"pcMid": 41728
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 541.152653,
+		"audioSize": 8658.904,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4EF45FD8078",
+		"audioSavedKey": "500a9c886a85bf2543df758d99d6d595.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741586c1",
+		"createdAt": "2017-02-21T17:34:57.849Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae43",
+		"order": 2,
+		"hide": false,
+		"name": "辅音连缀",
+		"updatedAt": "2019-09-24T18:20:55.750Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 419.12,
+		"videoSize": {
+			"mobileLow": 32344,
+			"mobileMid": 32344,
+			"pcLow": 32344,
+			"pcMid": 32344,
+			"pcHigh": 32344
+		},
+		"audioDuration": 419.186938,
+		"audioSize": 6707.036,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741586cc",
+		"createdAt": "2017-02-21T17:34:57.852Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae43",
+		"order": 3,
+		"hide": false,
+		"name": "分音节规则",
+		"updatedAt": "2019-09-24T18:19:13.711Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 784.32,
+		"videoSize": {
+			"pcHigh": 60388,
+			"mobileMid": 60388,
+			"pcMid": 60388,
+			"mobileLow": 60388,
+			"pcLow": 60388
+		},
+		"audioDuration": 784.37875,
+		"audioSize": 12550.105,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741586cd",
+		"createdAt": "2017-02-21T17:34:57.854Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae43",
+		"order": 4,
+		"hide": false,
+		"name": "重音规则",
+		"updatedAt": "2020-05-20T10:10:15.181Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 734.88,
+		"videoSize": {
+			"mobileLow": 56568,
+			"pcMid": 56568,
+			"pcLow": 56568,
+			"pcHigh": 56568,
+			"mobileMid": 56568
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 734.955102,
+		"audioSize": 11759.743,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC50207024F02",
+		"audioSavedKey": "ac33356e1f848133ed2b3dc9ea700e6c.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415ae5a",
+	"createdAt": "2017-02-21T17:34:57.930Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 4,
+	"hide": false,
+	"name": "你叫什么名字？(上）  ¿Cómo te llamas? (1)",
+	"updatedAt": "2020-05-25T01:50:32.560Z",
+	"description": "",
+	"actions": {
+		"watch": false,
+		"download": false
+	},
+	"seo": {},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"edDuration": 0,
+	"isPreset": false,
+	"opDuration": 0,
+	"source": {},
+	"children": [{
+		"_id": "586d23535f07127674158707",
+		"createdAt": "2017-02-21T17:34:57.933Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae5a",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-24T18:12:24.843Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 67.8,
+		"videoSize": {
+			"pcHigh": 5316,
+			"mobileLow": 5316,
+			"pcLow": 5316,
+			"pcMid": 5316,
+			"mobileMid": 5316
+		},
+		"audioDuration": 67.866063,
+		"audioSize": 1085.902,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158708",
+		"createdAt": "2017-02-21T17:34:57.935Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae5a",
+		"order": 2,
+		"hide": false,
+		"name": "动词变位",
+		"updatedAt": "2020-05-20T08:58:47.247Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1161.68,
+		"videoSize": {
+			"pcMid": 89984,
+			"pcLow": 89984,
+			"mobileLow": 89988,
+			"mobileMid": 89988,
+			"pcHigh": 89984
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1161.743673,
+		"audioSize": 18588.36,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F147FE0F8C",
+		"audioSavedKey": "a99e6ed94b9d84b6516435599d35f352.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158709",
+		"createdAt": "2017-02-21T17:34:57.938Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae5a",
+		"order": 3,
+		"hide": false,
+		"name": "字母复习",
+		"updatedAt": "2020-05-20T13:49:32.551Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1544.64,
+		"videoSize": {
+			"mobileMid": 119520,
+			"mobileLow": 119520,
+			"pcHigh": 119520,
+			"pcLow": 119520,
+			"pcMid": 119520
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1544.724898,
+		"audioSize": 24716.06,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5356C16F4C6",
+		"audioSavedKey": "e15a3eba8f2e25e56b37fc31a0522bd9.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415870a",
+		"createdAt": "2017-02-21T17:34:57.943Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae5a",
+		"order": 4,
+		"hide": false,
+		"name": "你来自哪里，你是哪里人？",
+		"updatedAt": "2020-05-20T09:03:40.541Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1207.48,
+		"videoSize": {
+			"mobileLow": 93428,
+			"pcMid": 93424,
+			"pcHigh": 93424,
+			"pcLow": 93424,
+			"mobileMid": 93428
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1207.536327,
+		"audioSize": 19321.043,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F26CFE2A18",
+		"audioSavedKey": "67516ff512c3bf023cd2a9849b947eb1.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415ae6e",
+	"createdAt": "2017-02-21T17:34:58.018Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 5,
+	"hide": false,
+	"name": "你叫什么名字？（下）   ¿Cómo te llamas? (2)",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "你叫什么名字？（下）   ¿Cómo te llamas? (2),西班牙语快速入门(你叫什么名字？（下）   ¿Cómo te llamas? (2))",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，你叫什么名字？（下）   ¿Cómo te llamas? (2)等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989023！",
+		"title": "你叫什么名字？（下）   ¿Cómo te llamas? (2)，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158745",
+		"createdAt": "2017-02-21T17:34:58.022Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae6e",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-24T22:56:55.654Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 106.04,
+		"videoSize": {
+			"mobileLow": 8296,
+			"pcLow": 8296,
+			"mobileMid": 8296,
+			"pcMid": 8296,
+			"pcHigh": 8296
+		},
+		"audioDuration": 106.109375,
+		"audioSize": 1697.795,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158746",
+		"createdAt": "2017-02-21T17:34:58.024Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae6e",
+		"order": 2,
+		"hide": false,
+		"name": "数字",
+		"updatedAt": "2020-05-20T08:57:35.469Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1252.56,
+		"videoSize": {
+			"mobileMid": 96948,
+			"mobileLow": 96948,
+			"pcHigh": 96948,
+			"pcLow": 96948,
+			"pcMid": 96948
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1252.623673,
+		"audioSize": 20042.44,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F0FFFDFBD2",
+		"audioSavedKey": "1924d0648a5cff41bf7025e3debdfa33.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158747",
+		"createdAt": "2017-02-21T17:34:58.027Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae6e",
+		"order": 3,
+		"hide": false,
+		"name": "简短的自我介绍",
+		"updatedAt": "2019-09-24T23:17:09.530Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 822.04,
+		"videoSize": {
+			"pcHigh": 63672,
+			"pcMid": 63672,
+			"mobileMid": 63672,
+			"mobileLow": 63672,
+			"pcLow": 63672
+		},
+		"audioDuration": 822.125688,
+		"audioSize": 13154.056,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158748",
+		"createdAt": "2017-02-21T17:34:58.030Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae6e",
+		"order": 4,
+		"hide": false,
+		"name": "某物用西语怎么说",
+		"updatedAt": "2020-05-20T10:21:00.882Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1094.12,
+		"videoSize": {
+			"mobileMid": 84696,
+			"mobileLow": 84696,
+			"pcMid": 84692,
+			"pcLow": 84692,
+			"pcHigh": 84692
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1094.19102,
+		"audioSize": 17507.518,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5048C032C12",
+		"audioSavedKey": "800c6dfb69045cec0df594393100c18b.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415ae84",
+	"createdAt": "2017-02-21T17:34:58.097Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 6,
+	"hide": false,
+	"name": "你好吗？  ¿Cómo estás?",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "你好吗？  ¿Cómo estás?,西班牙语快速入门(你好吗？  ¿Cómo estás?)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，你好吗？  ¿Cómo estás?等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989024！",
+		"title": "你好吗？  ¿Cómo estás?，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158793",
+		"createdAt": "2017-02-21T17:34:58.099Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae84",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-24T23:05:19.834Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 166,
+		"videoSize": {
+			"pcLow": 12936,
+			"mobileLow": 12936,
+			"pcHigh": 12936,
+			"mobileMid": 12936,
+			"pcMid": 12936
+		},
+		"audioDuration": 166.060375,
+		"audioSize": 2657.011,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158794",
+		"createdAt": "2017-02-21T17:34:58.102Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae84",
+		"order": 2,
+		"hide": false,
+		"name": "问候，告别",
+		"updatedAt": "2020-05-20T08:59:44.103Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1707.88,
+		"videoSize": {
+			"mobileLow": 132256,
+			"pcLow": 132252,
+			"pcHigh": 132252,
+			"pcMid": 132252,
+			"mobileMid": 132256
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1707.964082,
+		"audioSize": 27327.887,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F180FDE771",
+		"audioSavedKey": "9c1c326469f5a6faf2c2427944abe193.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158795",
+		"createdAt": "2017-02-21T17:34:58.104Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae84",
+		"order": 3,
+		"hide": false,
+		"name": "家庭住址",
+		"updatedAt": "2020-05-20T10:41:08.608Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1081.72,
+		"videoSize": {
+			"pcLow": 83800,
+			"pcHigh": 83800,
+			"mobileLow": 83804,
+			"pcMid": 83800,
+			"mobileMid": 83804
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1081.782857,
+		"audioSize": 17308.987,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC50944042CB8",
+		"audioSavedKey": "a8664ef5386c98073c111adc73efd928.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158796",
+		"createdAt": "2017-02-21T17:34:58.107Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae84",
+		"order": 4,
+		"hide": false,
+		"name": "电话用语",
+		"updatedAt": "2020-05-20T23:54:51.560Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1249,
+		"videoSize": {
+			"mobileMid": 96764,
+			"pcHigh": 96760,
+			"mobileLow": 96764,
+			"pcMid": 96760,
+			"pcLow": 96760
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1249.07102,
+		"audioSize": 19985.598,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5C34B321ED3",
+		"audioSavedKey": "948accf9f722719f7f9a7f23b47298a5.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415ae90",
+	"createdAt": "2017-02-21T17:34:58.171Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 7,
+	"hide": false,
+	"name": "家   La casa",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "家   La casa,西班牙语快速入门(家   La casa)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，家   La casa等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989025！",
+		"title": "家   La casa，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f071276741587bb",
+		"createdAt": "2017-02-21T17:34:58.174Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae90",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-25T01:22:07.204Z",
+		"actions": {
+			"download": false,
+			"watch": true
+		},
+		"videoDuration": 209.422,
+		"videoSize": {
+			"mobileLow": 16756,
+			"pcHigh": 16756,
+			"pcLow": 16756,
+			"pcMid": 16756,
+			"mobileMid": 16756
+		},
+		"audioDuration": 209.423625,
+		"audioSize": 3350.823,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"isPreset": true,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741587bc",
+		"createdAt": "2017-02-21T17:34:58.176Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae90",
+		"order": 2,
+		"hide": false,
+		"name": "我的房间（上）",
+		"updatedAt": "2020-05-20T08:55:30.886Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1619.6,
+		"videoSize": {
+			"mobileMid": 125488,
+			"mobileLow": 125488,
+			"pcMid": 125484,
+			"pcHigh": 125476,
+			"pcLow": 125484
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1619.644082,
+		"audioSize": 25914.767,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F082FDD87F",
+		"audioSavedKey": "4d74a02336a516ff301c35d9dfd24d56.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741587bd",
+		"createdAt": "2017-02-21T17:34:58.178Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae90",
+		"order": 3,
+		"hide": false,
+		"name": "我的房间（下）",
+		"updatedAt": "2019-09-24T22:41:03.474Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 964.76,
+		"videoSize": {
+			"mobileLow": 74772,
+			"pcLow": 74772,
+			"pcHigh": 74772,
+			"pcMid": 74772,
+			"mobileMid": 74772
+		},
+		"audioDuration": 964.832625,
+		"audioSize": 15437.367,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741587be",
+		"createdAt": "2017-02-21T17:34:58.181Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae90",
+		"order": 4,
+		"hide": false,
+		"name": "我的公寓",
+		"updatedAt": "2020-05-20T09:00:38.097Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1808.2,
+		"videoSize": {
+			"pcLow": 140060,
+			"mobileLow": 140064,
+			"mobileMid": 140064,
+			"pcMid": 140060,
+			"pcHigh": 140060
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1808.274286,
+		"audioSize": 28932.85,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F1B6FE2E9E",
+		"audioSavedKey": "54145d811ba7d3419c109075e2a3b597.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415ae9e",
+	"createdAt": "2017-02-21T17:34:58.245Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 8,
+	"hide": false,
+	"name": "时间   la hora",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "时间   la hora,西班牙语快速入门(时间   la hora)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，时间   la hora等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989026！",
+		"title": "时间   la hora，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f071276741587ee",
+		"createdAt": "2017-02-21T17:34:58.248Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae9e",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-24T21:54:13.983Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 168.729,
+		"videoSize": {
+			"pcHigh": 13488,
+			"mobileLow": 13488,
+			"mobileMid": 13488,
+			"pcLow": 13488,
+			"pcMid": 13488
+		},
+		"audioDuration": 168.777125,
+		"audioSize": 2700.479,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741587ef",
+		"createdAt": "2017-02-21T17:34:58.251Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae9e",
+		"order": 2,
+		"hide": false,
+		"name": "时间的表达方式",
+		"updatedAt": "2020-05-20T09:31:51.033Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1409.92,
+		"videoSize": {
+			"mobileLow": 109216,
+			"mobileMid": 109216,
+			"pcLow": 109216,
+			"pcHigh": 109216,
+			"pcMid": 109216
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1410.011429,
+		"audioSize": 22560.644,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC4F906FFF580",
+		"audioSavedKey": "ad338d7ea79a7f8d3c6e56a7b831851c.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741587f0",
+		"createdAt": "2017-02-21T17:34:58.253Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae9e",
+		"order": 3,
+		"hide": false,
+		"name": "陈述式现在时动词变位规则（上）",
+		"updatedAt": "2020-05-20T09:57:48.701Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1272.12,
+		"videoSize": {
+			"mobileLow": 98524,
+			"mobileMid": 98524,
+			"pcHigh": 98524,
+			"pcMid": 98524,
+			"pcLow": 98524
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1272.163265,
+		"audioSize": 20355.074,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FF1C018FB7",
+		"audioSavedKey": "b13121e7d9fb6d2858936abbccd2a06a.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741587f1",
+		"createdAt": "2017-02-21T17:34:58.257Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415ae9e",
+		"order": 4,
+		"hide": false,
+		"name": "陈述式现在时动词变位规则（下）",
+		"updatedAt": "2019-10-26T18:47:19.033Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 935.04,
+		"videoSize": {
+			"mobileLow": 72424,
+			"mobileMid": 72424,
+			"pcLow": 72424,
+			"pcMid": 72424,
+			"pcHigh": 72424
+		},
+		"isGeneratingAudio": true,
+		"audioPersistentId": "z1.0A1E1A1839F5633CB05DB494B686FCBB",
+		"audioSavedKey": "543d8413a0503031bf00146e1e626ab4.mp3",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415aeb9",
+	"createdAt": "2017-02-21T17:34:58.329Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 9,
+	"hide": false,
+	"name": "课堂   la clase",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "课堂   la clase,西班牙语快速入门(课堂   la clase)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，课堂   la clase等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989027！",
+		"title": "课堂   la clase，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158849",
+		"createdAt": "2017-02-21T17:34:58.332Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aeb9",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T10:32:43.777Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 139.44,
+		"videoSize": {
+			"mobileLow": 10672,
+			"mobileMid": 10672,
+			"pcMid": 10672,
+			"pcLow": 10672,
+			"pcHigh": 10672
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 139.441633,
+		"audioSize": 2231.528,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5074B03A7A0",
+		"audioSavedKey": "7d11cddc9095617872b2648db04b5d94.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415884a",
+		"createdAt": "2017-02-21T17:34:58.334Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aeb9",
+		"order": 2,
+		"hide": false,
+		"name": "描述物品方位",
+		"updatedAt": "2020-05-20T10:34:53.326Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1495.2,
+		"videoSize": {
+			"mobileLow": 115784,
+			"pcHigh": 115784,
+			"pcMid": 115784,
+			"mobileMid": 115784,
+			"pcLow": 115784
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1495.275102,
+		"audioSize": 23924.863,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC507CD0400E9",
+		"audioSavedKey": "056abee514ee47b7ceff9fe1d2701e41.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415884b",
+		"createdAt": "2017-02-21T17:34:58.337Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aeb9",
+		"order": 3,
+		"hide": false,
+		"name": "描述人物",
+		"updatedAt": "2020-05-20T10:44:07.923Z",
+		"actions": {
+			"download": false,
+			"watch": true
+		},
+		"videoDuration": 913.72,
+		"videoSize": {
+			"pcHigh": 70804,
+			"mobileMid": 70804,
+			"mobileLow": 70804,
+			"pcLow": 70804,
+			"pcMid": 70804
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 913.763265,
+		"audioSize": 14620.674,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC509F7045C31",
+		"audioSavedKey": "b3498c3cfb3c7e9a037a5ba44d799f5e.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"isPreset": true,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415884c",
+		"createdAt": "2017-02-21T17:34:58.340Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aeb9",
+		"order": 4,
+		"hide": false,
+		"name": "形容词比较级与性格的描述",
+		"updatedAt": "2020-05-20T10:53:42.126Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1312.32,
+		"videoSize": {
+			"pcLow": 101716,
+			"mobileLow": 101716,
+			"mobileMid": 101716,
+			"pcMid": 101716,
+			"pcHigh": 101716
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1312.391837,
+		"audioSize": 20998.731,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC50C36052C3F",
+		"audioSavedKey": "56913e479bb6f0dfaf839401ecd74a61.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415aecc",
+	"createdAt": "2017-02-21T17:34:58.405Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 10,
+	"hide": false,
+	"name": "职业与家庭   profesión y familia",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "职业与家庭 profesión y familia",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "职业与家庭   profesión y familia,西班牙语快速入门(职业与家庭   profesión y familia)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，职业与家庭   profesión y familia等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989028！",
+		"title": "职业与家庭   profesión y familia，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158898",
+		"createdAt": "2017-02-21T17:34:58.408Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aecc",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-25T00:26:30.738Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 172.36,
+		"videoSize": {
+			"pcHigh": 13076,
+			"mobileLow": 13076,
+			"pcMid": 13076,
+			"mobileMid": 13076,
+			"pcLow": 13076
+		},
+		"audioDuration": 172.43425,
+		"audioSize": 2758.993,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158899",
+		"createdAt": "2017-02-21T17:34:58.411Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aecc",
+		"order": 2,
+		"hide": false,
+		"name": "定冠词和询问职业",
+		"updatedAt": "2020-05-20T08:49:29.836Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1311.24,
+		"videoSize": {
+			"pcLow": 104584,
+			"mobileLow": 104584,
+			"pcMid": 104584,
+			"mobileMid": 104584,
+			"pcHigh": 104584
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1311.294694,
+		"audioSize": 20981.177,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4EF19FD742D",
+		"audioSavedKey": "52900559f861b7396df62562cd3a6f5e.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415889a",
+		"createdAt": "2017-02-21T17:34:58.414Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aecc",
+		"order": 3,
+		"hide": false,
+		"name": "非重读物主形容词和亲属关系",
+		"updatedAt": "2020-05-20T12:13:44.351Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1007.12,
+		"videoSize": {
+			"mobileLow": 80316,
+			"mobileMid": 80316,
+			"pcMid": 80316,
+			"pcLow": 80316,
+			"pcHigh": 80316
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1007.177143,
+		"audioSize": 16115.296,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC51EF80B78DD",
+		"audioSavedKey": "58eec8cef7c510e8251618d08ec75f67.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415889b",
+		"createdAt": "2017-02-21T17:34:58.418Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aecc",
+		"order": 4,
+		"hide": false,
+		"name": "不规则变位动词与代词式动词",
+		"updatedAt": "2020-05-20T12:38:42.856Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1165.503,
+		"videoSize": {
+			"pcLow": 92924,
+			"mobileLow": 92928,
+			"pcHigh": 92924,
+			"mobileMid": 92928,
+			"pcMid": 92924
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1165.557551,
+		"audioSize": 18649.382,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC524D20E3108",
+		"audioSavedKey": "7f857707396a544d5ff882f206d4b5ec.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415aed8",
+	"createdAt": "2017-02-21T17:34:58.489Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 11,
+	"hide": false,
+	"name": "婚姻状况和阅读练习   Estado civil y comprensión de lectura",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "婚姻状况和阅读练习   Estado civil y comprensión de lectura,西班牙语快速入门(婚姻状况和阅读练习   Estado civil y comprensión de lectura)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，婚姻状况和阅读练习   Estado civil y comprensión de lectura等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989029！",
+		"title": "婚姻状况和阅读练习   Estado civil y comprensión de lectura，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f071276741588b8",
+		"createdAt": "2017-02-21T17:34:58.492Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aed8",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T08:52:17.975Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 197.72,
+		"videoSize": {
+			"mobileLow": 15212,
+			"pcHigh": 15212,
+			"pcMid": 15212,
+			"pcLow": 15212,
+			"mobileMid": 15212
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 197.773061,
+		"audioSize": 3164.831,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4EFC1FDA331",
+		"audioSavedKey": "05581326127b46a00dd854250db5ba84.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741588b9",
+		"createdAt": "2017-02-21T17:34:58.495Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aed8",
+		"order": 2,
+		"hide": false,
+		"name": "婚姻状况",
+		"updatedAt": "2020-05-20T13:09:55.857Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1001.32,
+		"videoSize": {
+			"mobileLow": 79860,
+			"mobileMid": 79860,
+			"pcMid": 79860,
+			"pcHigh": 79860,
+			"pcLow": 79860
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1001.404082,
+		"audioSize": 16022.927,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC52C2311FE07",
+		"audioSavedKey": "47c1dfdeb494be42784bd2fc35fe2621.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741588ba",
+		"createdAt": "2017-02-21T17:34:58.498Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aed8",
+		"order": 3,
+		"hide": false,
+		"name": "阅读练习上",
+		"updatedAt": "2020-05-20T12:47:38.106Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1071.76,
+		"videoSize": {
+			"mobileLow": 85416,
+			"pcLow": 85412,
+			"pcHigh": 85412,
+			"pcMid": 85412,
+			"mobileMid": 85416
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1071.830204,
+		"audioSize": 17149.745,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC526EA0F0939",
+		"audioSavedKey": "bb0d60d921d0f7d26cfc33fb80cc76d0.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741588bb",
+		"createdAt": "2017-02-21T17:34:58.500Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aed8",
+		"order": 4,
+		"hide": false,
+		"name": "阅读练习下",
+		"updatedAt": "2020-05-20T14:10:18.802Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 821.16,
+		"videoSize": {
+			"mobileLow": 65488,
+			"pcHigh": 65488,
+			"pcMid": 65488,
+			"pcLow": 65488,
+			"mobileMid": 65488
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 821.237551,
+		"audioSize": 13140.262,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC53A4A19BD06",
+		"audioSavedKey": "52399aa20e06ed003843f3710424607d.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415aee5",
+	"createdAt": "2017-02-21T17:34:58.569Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 12,
+	"hide": false,
+	"name": "日常生活   vida diaria",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "日常生活   vida diaria,西班牙语快速入门(日常生活   vida diaria)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，日常生活   vida diaria等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989030！",
+		"title": "日常生活   vida diaria，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f071276741588e9",
+		"createdAt": "2017-02-21T17:34:58.572Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aee5",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T22:42:30.127Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 94,
+		"videoSize": {
+			"pcMid": 7336,
+			"mobileMid": 7336,
+			"mobileLow": 7336,
+			"pcLow": 7336,
+			"pcHigh": 7336
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 94.066939,
+		"audioSize": 1505.533,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5B256302F8E",
+		"audioSavedKey": "9792c514e397a3b4d4bb3d575ebf0eb0.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741588ea",
+		"createdAt": "2017-02-21T17:34:58.575Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aee5",
+		"order": 2,
+		"hide": false,
+		"name": "对时间的提问及频率词汇",
+		"updatedAt": "2020-05-20T22:43:51.770Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1054.52,
+		"videoSize": {
+			"pcLow": 81660,
+			"mobileLow": 81660,
+			"pcMid": 81660,
+			"mobileMid": 81660,
+			"pcHigh": 81660
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1054.563265,
+		"audioSize": 16873.474,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5B2A7303666",
+		"audioSavedKey": "388ff0ed4d5efe52c6530bbc0cde2c15.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741588eb",
+		"createdAt": "2017-02-21T17:34:58.578Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aee5",
+		"order": 3,
+		"hide": false,
+		"name": "前置词(上)",
+		"updatedAt": "2020-05-20T12:26:30.433Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 968.56,
+		"videoSize": {
+			"mobileLow": 74996,
+			"mobileMid": 74996,
+			"pcMid": 74996,
+			"pcLow": 74996,
+			"pcHigh": 74996
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 968.646531,
+		"audioSize": 15498.806,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC521F60C9A54",
+		"audioSavedKey": "6c8c1ae1d62104d5e1aee7dc31253959.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741588ec",
+		"createdAt": "2017-02-21T17:34:58.581Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aee5",
+		"order": 4,
+		"hide": false,
+		"name": "前置词(下)",
+		"updatedAt": "2020-05-20T23:17:09.178Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 931.8,
+		"videoSize": {
+			"pcHigh": 72144,
+			"pcMid": 72144,
+			"mobileLow": 72144,
+			"pcLow": 72144,
+			"mobileMid": 72144
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 931.866122,
+		"audioSize": 14910.319,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5BA7530F059",
+		"audioSavedKey": "1fcf98e56851576895f75348faa780d4.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415aef3",
+	"createdAt": "2017-02-21T17:34:58.647Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 13,
+	"hide": false,
+	"name": "节日（上）   un día de fiesta(1)",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "节日（上）   un día de fiesta(1),西班牙语快速入门(节日（上）   un día de fiesta(1))",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，节日（上）   un día de fiesta(1)等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989031！",
+		"title": "节日（上）   un día de fiesta(1)，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f0712767415891a",
+		"createdAt": "2017-02-21T17:34:58.649Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aef3",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T12:02:29.773Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 154.56,
+		"videoSize": {
+			"mobileLow": 11980,
+			"mobileMid": 11980,
+			"pcLow": 11980,
+			"pcMid": 11980,
+			"pcHigh": 11980
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 154.644898,
+		"audioSize": 2474.78,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC51C550A5B90",
+		"audioSavedKey": "65ca709218c3613f5263faebaf170033.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415891b",
+		"createdAt": "2017-02-21T17:34:58.652Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aef3",
+		"order": 2,
+		"hide": false,
+		"name": "相对最高级",
+		"updatedAt": "2020-05-21T01:21:47.258Z",
+		"actions": {
+			"download": false,
+			"watch": true
+		},
+		"videoDuration": 1046.56,
+		"videoSize": {
+			"pcHigh": 81060,
+			"mobileLow": 81060,
+			"pcMid": 81060,
+			"pcLow": 81060,
+			"mobileMid": 81060
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1046.622041,
+		"audioSize": 16746.414,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5D7AB35D68C",
+		"audioSavedKey": "90d885928f9ddaa662993ae4f0c9e051.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"isPreset": true,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415891c",
+		"createdAt": "2017-02-21T17:34:58.654Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aef3",
+		"order": 3,
+		"hide": false,
+		"name": "指示代词和指示形容词",
+		"updatedAt": "2020-05-21T01:43:47.833Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1221.92,
+		"videoSize": {
+			"pcMid": 94680,
+			"pcHigh": 94680,
+			"mobileLow": 94684,
+			"mobileMid": 94684,
+			"pcLow": 94680
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1221.982041,
+		"audioSize": 19552.174,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5DCD337146C",
+		"audioSavedKey": "3287dfd390a753f6570da627ba0b04e0.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415891d",
+		"createdAt": "2017-02-21T17:34:58.657Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aef3",
+		"order": 4,
+		"hide": false,
+		"name": "习惯于……",
+		"updatedAt": "2020-05-21T05:20:00.718Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 961.52,
+		"videoSize": {
+			"pcHigh": 142244,
+			"mobileMid": 142244,
+			"pcMid": 81204,
+			"mobileLow": 81204,
+			"pcLow": 410520
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 961.671837,
+		"audioSize": 15387.211,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC60F8043CFF5",
+		"audioSavedKey": "86ab685fbd4e7125f0d68559a05d53b6.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415af0b",
+	"createdAt": "2017-02-21T17:34:58.718Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 14,
+	"hide": false,
+	"name": "节日（下）   un día de fiest(2)",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "节日（下）   un día de fiest(2),西班牙语快速入门(节日（下）   un día de fiest(2))",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，节日（下）   un día de fiest(2)等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989032！",
+		"title": "节日（下）   un día de fiest(2)，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158969",
+		"createdAt": "2017-02-21T17:34:58.720Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af0b",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-24T20:39:50.305Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 98.2,
+		"videoSize": {
+			"pcHigh": 7696,
+			"mobileLow": 7696,
+			"pcLow": 7696,
+			"pcMid": 7696,
+			"mobileMid": 7696
+		},
+		"audioDuration": 98.2465,
+		"audioSize": 1571.989,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415896a",
+		"createdAt": "2017-02-21T17:34:58.723Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af0b",
+		"order": 2,
+		"hide": false,
+		"name": "动词的宾语及直接宾语",
+		"updatedAt": "2019-10-26T14:59:50.992Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 974.16,
+		"videoSize": {
+			"mobileMid": 75400,
+			"mobileLow": 75400,
+			"pcMid": 75400,
+			"pcLow": 75400,
+			"pcHigh": 75400
+		},
+		"isGeneratingAudio": true,
+		"audioPersistentId": "z1.0A1E1A1839F5633CB05DB45F667D6853",
+		"audioSavedKey": "01d3493e18179d8f4741e425f10491f1.mp3",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415896b",
+		"createdAt": "2017-02-21T17:34:58.725Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af0b",
+		"order": 3,
+		"hide": false,
+		"name": "间接宾语",
+		"updatedAt": "2019-10-25T23:31:34.476Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1052.92,
+		"videoSize": {
+			"mobileMid": 81504,
+			"mobileLow": 81504,
+			"pcLow": 81504,
+			"pcHigh": 81504,
+			"pcMid": 81504
+		},
+		"isGeneratingAudio": true,
+		"audioPersistentId": "z1.0A1E1A1839F5633CB05DB385D64BCBEF",
+		"audioSavedKey": "3e3b9b64bd28ddd233c61f8563617c73.mp3",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f0712767415896c",
+		"createdAt": "2017-02-21T17:34:58.728Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af0b",
+		"order": 4,
+		"hide": false,
+		"name": "与格人称代词",
+		"updatedAt": "2020-05-20T09:29:01.896Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1604.04,
+		"videoSize": {
+			"mobileLow": 126604,
+			"mobileMid": 234348,
+			"pcLow": 72796,
+			"pcMid": 126756,
+			"pcHigh": 234260
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1604.127347,
+		"audioSize": 25666.499,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F85DFFFF99",
+		"audioSavedKey": "517ef2253f16d333841a154c806c7395.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415af26",
+	"createdAt": "2017-02-21T17:34:58.788Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 15,
+	"hide": false,
+	"name": "西班牙人的圣诞节 La Navidad de los Españoles",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "西班牙人的圣诞节 La Navidad de los Españoles,西班牙语快速入门(西班牙人的圣诞节 La Navidad de los Españoles)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，西班牙人的圣诞节 La Navidad de los Españoles等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989033！",
+		"title": "西班牙人的圣诞节 La Navidad de los Españoles，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f071276741589ce",
+		"createdAt": "2017-02-21T17:34:58.791Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af26",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-24T20:55:31.709Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 197.92,
+		"videoSize": {
+			"pcMid": 15436,
+			"mobileLow": 15436,
+			"pcLow": 15436,
+			"pcHigh": 15436,
+			"mobileMid": 15436
+		},
+		"audioDuration": 197.982,
+		"audioSize": 3167.757,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741589cf",
+		"createdAt": "2017-02-21T17:34:58.793Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af26",
+		"order": 2,
+		"hide": false,
+		"name": "阅读练习－西班牙人的圣诞节（1）",
+		"updatedAt": "2020-05-21T00:42:39.456Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1841.92,
+		"videoSize": {
+			"pcLow": 142492,
+			"pcMid": 142492,
+			"mobileLow": 142496,
+			"mobileMid": 142496,
+			"pcHigh": 142492
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1841.972245,
+		"audioSize": 29472.017,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5CE7F339FF9",
+		"audioSavedKey": "f0bad5e8c8526e7a2a959be8146ab0ba.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741589d0",
+		"createdAt": "2017-02-21T17:34:58.796Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af26",
+		"order": 3,
+		"hide": false,
+		"name": "阅读练习－西班牙人的圣诞节（2）",
+		"updatedAt": "2020-05-21T01:20:13.122Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1169.96,
+		"videoSize": {
+			"pcLow": 90564,
+			"pcMid": 90564,
+			"mobileLow": 90568,
+			"pcHigh": 90564,
+			"mobileMid": 90568
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1170.050612,
+		"audioSize": 18721.271,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5D74D35C053",
+		"audioSavedKey": "3a234866ddab19022f3b5c26396b298a.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f071276741589d1",
+		"createdAt": "2017-02-21T17:34:58.799Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af26",
+		"order": 4,
+		"hide": false,
+		"name": "阅读练习－西班牙人的圣诞节（3）",
+		"updatedAt": "2020-05-21T01:39:39.396Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1457.92,
+		"videoSize": {
+			"pcHigh": 112840,
+			"mobileLow": 112840,
+			"pcMid": 112840,
+			"pcLow": 112840,
+			"mobileMid": 112840
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1457.998367,
+		"audioSize": 23328.435,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5DBDB36D699",
+		"audioSavedKey": "d218a31ad9da92877e8850db1096eee2.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415af38",
+	"createdAt": "2017-02-21T17:34:58.860Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 16,
+	"hide": false,
+	"name": "家务活（上） Las tareas de la casa",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "家务活（上） Las tareas de la casa,西班牙语快速入门(家务活（上） Las tareas de la casa)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，家务活（上） Las tareas de la casa等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989034！",
+		"title": "家务活（上） Las tareas de la casa，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158a06",
+		"createdAt": "2017-02-21T17:34:58.863Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af38",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-24T20:49:59.037Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 120.319999,
+		"videoSize": {
+			"pcHigh": 9620,
+			"mobileLow": 9620,
+			"mobileMid": 9620,
+			"pcLow": 9620,
+			"pcMid": 9620
+		},
+		"audioDuration": 120.398313,
+		"audioSize": 1926.418,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158a07",
+		"createdAt": "2017-02-21T17:34:58.865Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af38",
+		"order": 2,
+		"hide": false,
+		"name": "关系代词与定语从句",
+		"updatedAt": "2020-05-20T13:59:55.146Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1203.64,
+		"videoSize": {
+			"mobileLow": 93264,
+			"mobileMid": 93264,
+			"pcHigh": 93256,
+			"pcLow": 93260,
+			"pcMid": 93260
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1203.696327,
+		"audioSize": 19259.603,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC537DB189153",
+		"audioSavedKey": "374fa9737dfa33910c798d904d7f710b.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158a08",
+		"createdAt": "2017-02-21T17:34:58.868Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af38",
+		"order": 3,
+		"hide": false,
+		"name": "家务活",
+		"updatedAt": "2020-05-21T01:25:13.921Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 916.88,
+		"videoSize": {
+			"pcHigh": 71008,
+			"pcMid": 71008,
+			"mobileMid": 71008,
+			"mobileLow": 71008,
+			"pcLow": 71008
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 916.924082,
+		"audioSize": 14671.247,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5D87935CE51",
+		"audioSavedKey": "00e50615249983fa8253036a33b98985.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158a09",
+		"createdAt": "2017-02-21T17:34:58.870Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af38",
+		"order": 4,
+		"hide": false,
+		"name": "做事频率和疑问句词序",
+		"updatedAt": "2019-09-24T21:35:09.717Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 589.56,
+		"videoSize": {
+			"mobileLow": 45696,
+			"pcMid": 45692,
+			"mobileMid": 45696,
+			"pcHigh": 45692,
+			"pcLow": 45692
+		},
+		"audioDuration": 589.60975,
+		"audioSize": 9433.801,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415af4e",
+	"createdAt": "2017-02-21T17:34:58.932Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 17,
+	"hide": false,
+	"name": "家务活（下）Las tareas de la casa",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "家务活（下）Las tareas de la casa,西班牙语快速入门(家务活（下）Las tareas de la casa)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，家务活（下）Las tareas de la casa等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989035！",
+		"title": "家务活（下）Las tareas de la casa，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158a51",
+		"createdAt": "2017-02-21T17:34:58.936Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af4e",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-09-24T22:08:49.607Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 125.2,
+		"videoSize": {
+			"mobileLow": 9920,
+			"pcLow": 9920,
+			"mobileMid": 9920,
+			"pcHigh": 9920,
+			"pcMid": 9920
+		},
+		"audioDuration": 125.257125,
+		"audioSize": 2004.159,
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158a52",
+		"createdAt": "2017-02-21T17:34:58.938Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af4e",
+		"order": 2,
+		"hide": false,
+		"name": "直接宾语代词及其用法",
+		"updatedAt": "2020-05-20T14:19:50.566Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 2124.16,
+		"videoSize": {
+			"pcHigh": 164412,
+			"mobileLow": 164408,
+			"mobileMid": 164408,
+			"pcMid": 164408,
+			"pcLow": 164408
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 2124.225306,
+		"audioSize": 33988.066,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC53C861B3815",
+		"audioSavedKey": "090ff98fa31be9d82466923817411a2b.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158a53",
+		"createdAt": "2017-02-21T17:34:58.941Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af4e",
+		"order": 3,
+		"hide": false,
+		"name": "肯定命令式（1）",
+		"updatedAt": "2020-05-21T12:15:44.414Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 2056.32,
+		"videoSize": {
+			"pcMid": 159188,
+			"pcHigh": 159188,
+			"mobileLow": 159188,
+			"mobileMid": 159188,
+			"pcLow": 159188
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 2056.385306,
+		"audioSize": 32902.626,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC670F05EA139",
+		"audioSavedKey": "3300f2d805fb40945f8d0232045e0db6.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158a54",
+		"createdAt": "2017-02-21T17:34:58.943Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af4e",
+		"order": 4,
+		"hide": false,
+		"name": "肯定命令式（2）",
+		"updatedAt": "2020-05-20T09:31:18.612Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1534.6,
+		"videoSize": {
+			"pcLow": 118104,
+			"mobileLow": 118104,
+			"mobileMid": 118104,
+			"pcMid": 118104,
+			"pcHigh": 118104
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1534.667755,
+		"audioSize": 24555.146,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F8E60024C1",
+		"audioSavedKey": "e6b87b31e94e660ac92111343072e3a9.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415af68",
+	"createdAt": "2017-02-21T17:34:59.006Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 18,
+	"hide": false,
+	"name": "在超市 En el supermercado",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "在超市 En el supermercado,西班牙语快速入门(在超市 En el supermercado)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，在超市 En el supermercado等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989036！",
+		"title": "在超市 En el supermercado，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158ab4",
+		"createdAt": "2017-02-21T17:34:59.009Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af68",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T09:46:57.789Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 119.155,
+		"videoSize": {
+			"pcHigh": 10144,
+			"mobileLow": 10144,
+			"pcMid": 10144,
+			"mobileMid": 10144,
+			"pcLow": 10144
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 119.24898,
+		"audioSize": 1908.445,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC4FC9100E7C7",
+		"audioSavedKey": "1effc5a1593e546c98d1c10f5cac6087.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158ab5",
+		"createdAt": "2017-02-21T17:34:59.013Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af68",
+		"order": 2,
+		"hide": false,
+		"name": "数字100-1000",
+		"updatedAt": "2020-05-20T09:31:14.280Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1329.92,
+		"videoSize": {
+			"mobileLow": 102932,
+			"pcHigh": 102932,
+			"pcMid": 102932,
+			"pcLow": 102932,
+			"mobileMid": 102932
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1329.972245,
+		"audioSize": 21280.017,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F8E20023B8",
+		"audioSavedKey": "748f4fd34622ba30f3bb3cb698068b4d.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158ab6",
+		"createdAt": "2017-02-21T17:34:59.016Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af68",
+		"order": 3,
+		"hide": false,
+		"name": "金额的读法以及宾格代词，与格代词同时使用",
+		"updatedAt": "2020-05-20T08:48:42.118Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1402.72,
+		"videoSize": {
+			"mobileMid": 107700,
+			"mobileLow": 107700,
+			"pcMid": 107700,
+			"pcHigh": 107700,
+			"pcLow": 107700
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1402.77551,
+		"audioSize": 22444.87,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4EEEAFD6707",
+		"audioSavedKey": "4257e6f30896e5410a8f3d2bf19aaf12.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158ab7",
+		"createdAt": "2017-02-21T17:34:59.019Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af68",
+		"order": 4,
+		"hide": false,
+		"name": "购买商品",
+		"updatedAt": "2020-05-20T09:34:14.677Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 952.72,
+		"videoSize": {
+			"mobileMid": 72804,
+			"mobileLow": 72804,
+			"pcLow": 72804,
+			"pcHigh": 72804,
+			"pcMid": 72804
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 952.764082,
+		"audioSize": 15244.687,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC4F99600543E",
+		"audioSavedKey": "cd7e91b59eb213a6071413e71a6606d8.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415af7a",
+	"createdAt": "2017-02-21T17:34:59.105Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 19,
+	"hide": false,
+	"name": "在服装店 En la tienda de ropa",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "在服装店 En la tienda de ropa,西班牙语快速入门(在服装店 En la tienda de ropa)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，在服装店 En la tienda de ropa等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989037！",
+		"title": "在服装店 En la tienda de ropa，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158af4",
+		"createdAt": "2017-02-21T17:34:59.108Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af7a",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T10:15:40.343Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 133.8,
+		"videoSize": {
+			"mobileLow": 10456,
+			"mobileMid": 10456,
+			"pcLow": 10456,
+			"pcHigh": 10456,
+			"pcMid": 10456
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 133.877551,
+		"audioSize": 2142.502,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5034C02DA92",
+		"audioSavedKey": "75fa0d5eeb7d9be96ff5d666d7b077e1.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158af5",
+		"createdAt": "2017-02-21T17:34:59.110Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af7a",
+		"order": 2,
+		"hide": false,
+		"name": "喜好，偏好表示",
+		"updatedAt": "2020-05-20T18:15:36.661Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1036.96,
+		"videoSize": {
+			"pcMid": 79336,
+			"mobileLow": 79336,
+			"mobileMid": 79336,
+			"pcLow": 79336,
+			"pcHigh": 79336
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1037.00898,
+		"audioSize": 16592.605,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC573C82C889D",
+		"audioSavedKey": "5be9917828c77506f9b51da2e904984b.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158af6",
+		"createdAt": "2017-02-21T17:34:59.113Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af7a",
+		"order": 3,
+		"hide": false,
+		"name": "衣物",
+		"updatedAt": "2020-05-20T18:34:56.775Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 634,
+		"videoSize": {
+			"mobileLow": 48260,
+			"mobileMid": 48260,
+			"pcMid": 48260,
+			"pcHigh": 48260,
+			"pcLow": 48260
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 634.070204,
+		"audioSize": 10145.585,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC578502CF42B",
+		"audioSavedKey": "b89ea9073e3af0dc9c7232e730b5f4d9.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158af7",
+		"createdAt": "2017-02-21T17:34:59.115Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af7a",
+		"order": 4,
+		"hide": false,
+		"name": "在衣铺",
+		"updatedAt": "2020-05-20T18:45:19.459Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 768.92,
+		"videoSize": {
+			"mobileMid": 58844,
+			"mobileLow": 58844,
+			"pcHigh": 58844,
+			"pcMid": 58844,
+			"pcLow": 58844
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 768.992653,
+		"audioSize": 12304.344,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC57ABF2CEFE9",
+		"audioSavedKey": "0d55b6ce7fa5c240389a187e23d09bf0.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415af96",
+	"createdAt": "2017-02-21T17:34:59.187Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 20,
+	"hide": false,
+	"name": "我们的身体 Nuestro cuerpo ",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "我们的身体 Nuestro cuerpo ,西班牙语快速入门(我们的身体 Nuestro cuerpo )",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，我们的身体 Nuestro cuerpo 等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989038！",
+		"title": "我们的身体 Nuestro cuerpo ，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158b60",
+		"createdAt": "2017-02-21T17:34:59.198Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af96",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T15:50:03.061Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 89.72,
+		"videoSize": {
+			"mobileLow": 6924,
+			"pcMid": 6924,
+			"pcHigh": 6924,
+			"mobileMid": 6924,
+			"pcLow": 6924
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 89.782857,
+		"audioSize": 1436.987,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC551AB25841C",
+		"audioSavedKey": "ca4a8f76f585f463a65276574c1b87aa.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158b5a",
+		"createdAt": "2017-02-21T17:34:59.190Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af96",
+		"order": 2,
+		"hide": false,
+		"name": "身体",
+		"updatedAt": "2020-05-20T14:18:17.090Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 906.28,
+		"videoSize": {
+			"mobileLow": 69160,
+			"mobileMid": 69160,
+			"pcMid": 69160,
+			"pcHigh": 69160,
+			"pcLow": 69160
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 906.370612,
+		"audioSize": 14502.391,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC53C291ACCE5",
+		"audioSavedKey": "851761a77dde6410a5c353b2c44e2c28.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158b5b",
+		"createdAt": "2017-02-21T17:34:59.193Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af96",
+		"order": 3,
+		"hide": false,
+		"name": "你还好吗",
+		"updatedAt": "2020-05-20T14:18:27.051Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1015.96,
+		"videoSize": {
+			"pcLow": 78048,
+			"pcHigh": 78048,
+			"mobileLow": 78048,
+			"pcMid": 78048,
+			"mobileMid": 78048
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1015.980408,
+		"audioSize": 16256.148,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC53C331AD27B",
+		"audioSavedKey": "05597ae58189ad657ebe9c6111849336.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158b5c",
+		"createdAt": "2017-02-21T17:34:59.196Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415af96",
+		"order": 4,
+		"hide": false,
+		"name": "情绪状态表达",
+		"updatedAt": "2020-05-20T14:18:46.621Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 701.32,
+		"videoSize": {
+			"pcLow": 53588,
+			"mobileMid": 53588,
+			"pcHigh": 53588,
+			"pcMid": 53588,
+			"mobileLow": 53588
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 701.361633,
+		"audioSize": 11222.248,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC53C461ADD44",
+		"audioSavedKey": "9ffc7a91e48a017e4ede23ba7d036265.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415afa4",
+	"createdAt": "2017-02-21T17:34:59.261Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 21,
+	"hide": false,
+	"name": "大夫，我怎么了？ ¿Doctor, qué me pasa?",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "大夫，我怎么了？ ¿Doctor, qué me pasa?,西班牙语快速入门(大夫，我怎么了？ ¿Doctor, qué me pasa?)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，大夫，我怎么了？ ¿Doctor, qué me pasa?等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989039！",
+		"title": "大夫，我怎么了？ ¿Doctor, qué me pasa?，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158b8f",
+		"createdAt": "2017-02-21T17:34:59.264Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afa4",
+		"order": 1,
+		"hide": false,
+		"name": "对话 ",
+		"updatedAt": "2020-05-20T15:15:26.485Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 150.24,
+		"videoSize": {
+			"mobileLow": 12020,
+			"pcLow": 12020,
+			"pcHigh": 12020,
+			"mobileMid": 12020,
+			"pcMid": 12020
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 150.282449,
+		"audioSize": 2404.981,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5498E21D432",
+		"audioSavedKey": "87651f49ab848c515da16b024e010e55.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158b90",
+		"createdAt": "2017-02-21T17:34:59.266Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afa4",
+		"order": 2,
+		"hide": false,
+		"name": " si与条件从句，cuando与时间从句",
+		"updatedAt": "2020-05-20T14:18:51.170Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1268.84,
+		"videoSize": {
+			"mobileLow": 98244,
+			"pcHigh": 98244,
+			"pcLow": 98244,
+			"pcMid": 98244,
+			"mobileMid": 98244
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1268.924082,
+		"audioSize": 20303.247,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC53C4B1ADED0",
+		"audioSavedKey": "31248d0da35f3eccae95a720cf506642.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158b91",
+		"createdAt": "2017-02-21T17:34:59.269Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afa4",
+		"order": 3,
+		"hide": false,
+		"name": "否定命令式（上）",
+		"updatedAt": "2020-05-20T14:19:00.659Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1436.12,
+		"videoSize": {
+			"mobileLow": 111364,
+			"pcMid": 111364,
+			"pcHigh": 111364,
+			"mobileMid": 111364,
+			"pcLow": 111364
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1436.186122,
+		"audioSize": 22979.439,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC53C541B1B9D",
+		"audioSavedKey": "f90f2271e923df88f6489892d00f438b.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158b92",
+		"createdAt": "2017-02-21T17:34:59.271Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afa4",
+		"order": 4,
+		"hide": false,
+		"name": "否定命令式（下）",
+		"updatedAt": "2020-05-21T06:31:50.125Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1228,
+		"videoSize": {
+			"pcMid": 94336,
+			"pcLow": 94336,
+			"mobileLow": 94340,
+			"mobileMid": 94340,
+			"pcHigh": 94336
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1228.068571,
+		"audioSize": 19649.559,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC62056476E6D",
+		"audioSavedKey": "e5bd7e9cedfddf89c1a97343c196a019.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415afc2",
+	"createdAt": "2017-02-21T17:34:59.332Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 22,
+	"hide": false,
+	"name": "命令式，礼貌式和否定命令式 imprativo, modalidad respetuosa y imperativo negativo",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "命令式，礼貌式和否定命令式 imprativo, modalidad respetuosa y imperativo negativo,西班牙语快速入门(命令式，礼貌式和否定命令式 imprativo, modalidad respetuosa y imperativo negativo)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，命令式，礼貌式和否定命令式 imprativo, modalidad respetuosa y imperativo negativo等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989040！",
+		"title": "命令式，礼貌式和否定命令式 imprativo, modalidad respetuosa y imperativo negativo，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158be8",
+		"createdAt": "2017-02-21T17:34:59.335Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afc2",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-21T02:30:32.495Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 116.88,
+		"videoSize": {
+			"mobileMid": 9184,
+			"mobileLow": 9184,
+			"pcHigh": 9184,
+			"pcLow": 9184,
+			"pcMid": 9184
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 116.924082,
+		"audioSize": 1871.247,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5E7C839E13B",
+		"audioSavedKey": "105959efeaedbaa42dfb2e86dde08f06.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158be9",
+		"createdAt": "2017-02-21T17:34:59.337Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afc2",
+		"order": 2,
+		"hide": false,
+		"name": "礼貌式和否定命令式（1）",
+		"updatedAt": "2020-05-20T13:55:45.462Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1662.6,
+		"videoSize": {
+			"mobileMid": 128760,
+			"pcHigh": 128756,
+			"pcMid": 128756,
+			"mobileLow": 128760,
+			"pcLow": 128756
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1662.667755,
+		"audioSize": 26603.146,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC536E1180219",
+		"audioSavedKey": "bb68ef157d6e777135f60db8a2af7b3a.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158bea",
+		"createdAt": "2017-02-21T17:34:59.340Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afc2",
+		"order": 3,
+		"hide": false,
+		"name": "礼貌式和否定命令式(2)",
+		"updatedAt": "2020-05-20T14:24:27.443Z",
+		"actions": {
+			"download": false,
+			"watch": true
+		},
+		"videoDuration": 1390.44,
+		"videoSize": {
+			"pcHigh": 107748,
+			"mobileLow": 107752,
+			"pcLow": 107752,
+			"pcMid": 107752,
+			"mobileMid": 107752
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1390.524082,
+		"audioSize": 22248.847,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC53D9B1BD582",
+		"audioSavedKey": "1887cd5ba742071f5d85e4446c708669.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"isPreset": true,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158beb",
+		"createdAt": "2017-02-21T17:34:59.344Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afc2",
+		"order": 4,
+		"hide": false,
+		"name": "礼貌式和否定命令式(3)",
+		"updatedAt": "2020-05-20T14:42:02.575Z",
+		"actions": {
+			"download": false,
+			"watch": true
+		},
+		"videoDuration": 1424.12,
+		"videoSize": {
+			"mobileLow": 110348,
+			"pcLow": 110348,
+			"pcMid": 110348,
+			"mobileMid": 110348,
+			"pcHigh": 110348
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1424.195918,
+		"audioSize": 22787.596,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC541BA1DDEE7",
+		"audioSavedKey": "44291bf0cbb22f316cab9643b2092fd8.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"isPreset": true,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415afd8",
+	"createdAt": "2017-02-21T17:34:59.404Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 23,
+	"hide": false,
+	"name": "你更喜欢去哪里玩？ ¿A Dónde te gustaría más a viajar?",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "你更喜欢去哪里玩？ ¿A Dónde te gustaría más a viajar?,西班牙语快速入门(你更喜欢去哪里玩？ ¿A Dónde te gustaría más a viajar?)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，你更喜欢去哪里玩？ ¿A Dónde te gustaría más a viajar?等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989041！",
+		"title": "你更喜欢去哪里玩？ ¿A Dónde te gustaría más a viajar?，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158c34",
+		"createdAt": "2017-02-21T17:34:59.407Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afd8",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T15:51:44.067Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 158.599999,
+		"videoSize": {
+			"mobileLow": 12416,
+			"mobileMid": 12416,
+			"pcLow": 12416,
+			"pcMid": 12416,
+			"pcHigh": 12416
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 158.641633,
+		"audioSize": 2538.728,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5521025AA62",
+		"audioSavedKey": "a0785b47d798f672cfca3a4a1c405a87.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158c35",
+		"createdAt": "2017-02-21T17:34:59.409Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afd8",
+		"order": 2,
+		"hide": false,
+		"name": "偏好表达（1）",
+		"updatedAt": "2020-05-20T15:53:31.559Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 957.88,
+		"videoSize": {
+			"mobileLow": 74256,
+			"mobileMid": 74256,
+			"pcHigh": 74256,
+			"pcMid": 74256,
+			"pcLow": 74256
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 957.936327,
+		"audioSize": 15327.443,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5527B259A6A",
+		"audioSavedKey": "ccf172506bcf44574c82cfe663fe3936.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158c36",
+		"createdAt": "2017-02-21T17:34:59.412Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afd8",
+		"order": 3,
+		"hide": false,
+		"name": "偏好表达（2）",
+		"updatedAt": "2020-05-22T02:23:53.792Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1134.52,
+		"videoSize": {
+			"mobileLow": 87988,
+			"pcHigh": 87984,
+			"mobileMid": 87988,
+			"pcLow": 87984,
+			"pcMid": 87984
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1134.576327,
+		"audioSize": 18153.683,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC737B98C8C98",
+		"audioSavedKey": "0a4365ea7a2c034e556c0b915f1f8cea.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158c37",
+		"createdAt": "2017-02-21T17:34:59.414Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415afd8",
+		"order": 4,
+		"hide": false,
+		"name": "偏好表达（3）",
+		"updatedAt": "2020-05-23T09:50:57.491Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 841.92,
+		"videoSize": {
+			"mobileLow": 65124,
+			"pcMid": 65124,
+			"mobileMid": 65124,
+			"pcLow": 65124,
+			"pcHigh": 65124
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 842.004898,
+		"audioSize": 13472.54,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC8F201F73344",
+		"audioSavedKey": "1e95fb31c23a49e5d02fbc17cb02ba95.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415aff3",
+	"createdAt": "2017-02-21T17:34:59.474Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 24,
+	"hide": false,
+	"name": "我的城市 Mi ciudad",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "我的城市 Mi ciudad,西班牙语快速入门(我的城市 Mi ciudad)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，我的城市 Mi ciudad等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989042！",
+		"title": "我的城市 Mi ciudad，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158c91",
+		"createdAt": "2017-02-21T17:34:59.477Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aff3",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T13:32:26.823Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 135.122,
+		"videoSize": {
+			"mobileLow": 10740,
+			"pcHigh": 10740,
+			"mobileMid": 10740,
+			"pcMid": 10740,
+			"pcLow": 10740
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 135.157551,
+		"audioSize": 2162.982,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5316A14AD3B",
+		"audioSavedKey": "fdbad91a8c53252edb7be1d61f40809c.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158c92",
+		"createdAt": "2017-02-21T17:34:59.479Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aff3",
+		"order": 2,
+		"hide": false,
+		"name": "描述城市和气候(1)",
+		"updatedAt": "2020-05-23T09:50:58.917Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1224.12,
+		"videoSize": {
+			"mobileMid": 94720,
+			"mobileLow": 94720,
+			"pcMid": 94716,
+			"pcHigh": 94716,
+			"pcLow": 94716
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1224.176327,
+		"audioSize": 19587.283,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC8F202F7336C",
+		"audioSavedKey": "1bc59a7028ae3d0ff181c34ae0754002.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158c93",
+		"createdAt": "2017-02-21T17:34:59.482Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aff3",
+		"order": 3,
+		"hide": false,
+		"name": "描述城市和气候(2)",
+		"updatedAt": "2020-05-23T09:50:59.522Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 864.4,
+		"videoSize": {
+			"mobileLow": 66972,
+			"mobileMid": 66972,
+			"pcMid": 66972,
+			"pcHigh": 66972,
+			"pcLow": 66972
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 864.444082,
+		"audioSize": 13831.567,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC8F203F76AA0",
+		"audioSavedKey": "cd0832bd9b380dee80b0eb4bc6f917b7.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158c94",
+		"createdAt": "2017-02-21T17:34:59.484Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415aff3",
+		"order": 4,
+		"hide": false,
+		"name": "描述地理位置",
+		"updatedAt": "2020-05-20T13:32:36.299Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 651.8,
+		"videoSize": {
+			"pcMid": 50444,
+			"pcLow": 50444,
+			"mobileMid": 50444,
+			"pcHigh": 50444,
+			"mobileLow": 50444
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 651.859592,
+		"audioSize": 10430.215,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5317414EA25",
+		"audioSavedKey": "e664663e82e3395a15024e750eda2b53.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415affd",
+	"createdAt": "2017-02-21T17:34:59.546Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 25,
+	"hide": false,
+	"name": "准备旅行 Preparamos a viajar",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "准备旅行 Preparamos a viajar,西班牙语快速入门(准备旅行 Preparamos a viajar)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，准备旅行 Preparamos a viajar等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989043！",
+		"title": "准备旅行 Preparamos a viajar，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158cae",
+		"createdAt": "2017-02-21T17:34:59.549Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415affd",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T15:51:02.677Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 185.56,
+		"videoSize": {
+			"pcMid": 14400,
+			"pcHigh": 14400,
+			"mobileMid": 14400,
+			"pcLow": 14400,
+			"mobileLow": 14400
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 185.626122,
+		"audioSize": 2970.479,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC551E6259AB2",
+		"audioSavedKey": "c68e29cced66ed47b5dc716578827150.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158caf",
+		"createdAt": "2017-02-21T17:34:59.553Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415affd",
+		"order": 2,
+		"hide": false,
+		"name": "订酒店（1）",
+		"updatedAt": "2020-05-23T09:51:01.086Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 686.28,
+		"videoSize": {
+			"pcLow": 53108,
+			"mobileMid": 53108,
+			"pcMid": 53108,
+			"mobileLow": 53108,
+			"pcHigh": 53108
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 686.341224,
+		"audioSize": 10981.921,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC8F205F76B05",
+		"audioSavedKey": "81302ab03a848fd862bd86b913f54f08.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158cb0",
+		"createdAt": "2017-02-21T17:34:59.555Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415affd",
+		"order": 3,
+		"hide": false,
+		"name": "订酒店（2）",
+		"updatedAt": "2020-05-23T09:51:01.772Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 542.36,
+		"videoSize": {
+			"pcLow": 41960,
+			"mobileLow": 41964,
+			"pcMid": 41960,
+			"pcHigh": 41964,
+			"mobileMid": 41964
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 542.432653,
+		"audioSize": 8679.384,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC8F205F73421",
+		"audioSavedKey": "9ae8f73c1d2ea95e69b3645d7c70cce3.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158cb1",
+		"createdAt": "2017-02-21T17:34:59.558Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415affd",
+		"order": 4,
+		"hide": false,
+		"name": "问路",
+		"updatedAt": "2020-05-20T13:30:56.086Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1109.6,
+		"videoSize": {
+			"mobileLow": 85880,
+			"pcLow": 85876,
+			"pcHigh": 85876,
+			"mobileMid": 85880,
+			"pcMid": 85876
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1109.629388,
+		"audioSize": 17754.532,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5311014B163",
+		"audioSavedKey": "bd7eebf12c71ec23002d5465e8e356a1.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415b02b",
+	"createdAt": "2017-02-21T17:34:59.626Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 26,
+	"hide": false,
+	"name": "我爱艺术！ ¡Me gusta el arte!",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "我爱艺术！ ¡Me gusta el arte!,西班牙语快速入门(我爱艺术！ ¡Me gusta el arte!)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，我爱艺术！ ¡Me gusta el arte!等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989044！",
+		"title": "我爱艺术！ ¡Me gusta el arte!，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158d1a",
+		"createdAt": "2017-02-21T17:34:59.628Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b02b",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2019-10-15T18:01:47.926Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 90.68,
+		"videoSize": {
+			"mobileLow": 7044,
+			"mobileMid": 7044,
+			"pcHigh": 7044,
+			"pcMid": 7044,
+			"pcLow": 7044
+		},
+		"isGeneratingAudio": true,
+		"audioPersistentId": "z1.0A1E1B437BDA1CF3F55DA6098BDB1505",
+		"audioSavedKey": "32c576a92cdc0646f8065eb6c19ace38.mp3",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158d1b",
+		"createdAt": "2017-02-21T17:34:59.631Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b02b",
+		"order": 2,
+		"hide": false,
+		"name": "我爱艺术",
+		"updatedAt": "2020-05-21T00:37:27.609Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 746.8,
+		"videoSize": {
+			"pcHigh": 57776,
+			"mobileMid": 57776,
+			"pcMid": 57776,
+			"pcLow": 57776,
+			"mobileLow": 57776
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 746.840816,
+		"audioSize": 11949.915,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5CD47339D01",
+		"audioSavedKey": "ce62f6d8bd5cf573694170bee9b84b39.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158d1c",
+		"createdAt": "2017-02-21T17:34:59.633Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b02b",
+		"order": 3,
+		"hide": false,
+		"name": "闲暇时间你去哪？",
+		"updatedAt": "2020-05-21T00:37:22.152Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 1015.04,
+		"videoSize": {
+			"pcMid": 78504,
+			"mobileLow": 78504,
+			"pcLow": 78504,
+			"mobileMid": 78504,
+			"pcHigh": 78504
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 1015.092245,
+		"audioSize": 16241.937,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5CD42336449",
+		"audioSavedKey": "a0589fb85c86a80c3bb06c1012c41f73.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158d1d",
+		"createdAt": "2017-02-21T17:34:59.635Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b02b",
+		"order": 4,
+		"hide": false,
+		"name": "你平时喜欢干嘛",
+		"updatedAt": "2020-05-21T00:54:01.514Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 718.2,
+		"videoSize": {
+			"pcMid": 55584,
+			"mobileLow": 55584,
+			"mobileMid": 55584,
+			"pcLow": 55584,
+			"pcHigh": 55584
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 718.262857,
+		"audioSize": 11492.667,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5D12934275E",
+		"audioSavedKey": "8a4b96be497c9bf208277f0903e9f8c7.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415b03f",
+	"createdAt": "2017-02-21T17:34:59.703Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 27,
+	"hide": false,
+	"name": "我正在做！¡Estoy haciéndolo!",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "我正在做！¡Estoy haciéndolo!,西班牙语快速入门(我正在做！¡Estoy haciéndolo!)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，我正在做！¡Estoy haciéndolo!等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989045！",
+		"title": "我正在做！¡Estoy haciéndolo!，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158d64",
+		"createdAt": "2017-02-21T17:34:59.706Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b03f",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-20T10:38:47.965Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 85.88,
+		"videoSize": {
+			"pcLow": 6680,
+			"mobileLow": 6680,
+			"mobileMid": 6680,
+			"pcHigh": 6680,
+			"pcMid": 6680
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 85.916735,
+		"audioSize": 1375.129,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC508B7043F27",
+		"audioSavedKey": "de72aa0ced7956bde9731b4dd49002e0.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158d65",
+		"createdAt": "2017-02-21T17:34:59.708Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b03f",
+		"order": 2,
+		"hide": false,
+		"name": "副动词及其用法(1)",
+		"updatedAt": "2020-05-20T10:40:18.127Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 680.4,
+		"videoSize": {
+			"mobileLow": 52648,
+			"pcLow": 52648,
+			"pcMid": 52648,
+			"pcHigh": 52648,
+			"mobileMid": 52648
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 680.463673,
+		"audioSize": 10887.88,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC50912041F9A",
+		"audioSavedKey": "742513f3efea6c11716977cac919ed5b.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158d66",
+		"createdAt": "2017-02-21T17:34:59.711Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b03f",
+		"order": 3,
+		"hide": false,
+		"name": "副动词及其用法(2)",
+		"updatedAt": "2020-05-20T14:20:02.243Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 582.32,
+		"videoSize": {
+			"mobileMid": 45084,
+			"mobileLow": 45084,
+			"pcLow": 45080,
+			"pcHigh": 45080,
+			"pcMid": 45080
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 582.373878,
+		"audioSize": 9318.444,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC53C921B3EDD",
+		"audioSavedKey": "a7bdf3af0862c44721aa5aa264e0043f.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158d67",
+		"createdAt": "2017-02-21T17:34:59.713Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b03f",
+		"order": 4,
+		"hide": false,
+		"name": "副动词及其用法(3)",
+		"updatedAt": "2020-05-21T03:35:02.691Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 432.72,
+		"videoSize": {
+			"pcHigh": 33504,
+			"pcMid": 33504,
+			"mobileMid": 33504,
+			"mobileLow": 33504,
+			"pcLow": 33504
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 432.770612,
+		"audioSize": 6924.791,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5F6E63DF824",
+		"audioSavedKey": "bb0ead25c9e44db087af53f811b471e6.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}, {
+	"_id": "586d23555f0712767415b05a",
+	"createdAt": "2017-02-21T17:34:59.775Z",
+	"courseId": "586d23485f07127674135d11",
+	"order": 28,
+	"hide": false,
+	"name": "在餐厅 En el restaurante",
+	"updatedAt": "2019-10-31T02:47:17.111Z",
+	"description": "",
+	"actions": {
+		"download": false,
+		"watch": false
+	},
+	"seo": {
+		"keywords": "在餐厅 En el restaurante,西班牙语快速入门(在餐厅 En el restaurante)",
+		"description": "万门教育西班牙语课程分类下提供：西班牙语快速入门，在餐厅 En el restaurante等信息。欢迎大家进行学习和交流，咨询请致电万门教育客服电话：4008989046！",
+		"title": "在餐厅 En el restaurante，西班牙语快速入门_万门|大学"
+	},
+	"videoDuration": 0,
+	"videoSize": {
+		"pcHigh": 0,
+		"pcMid": 0,
+		"pcLow": 0,
+		"mobileMid": 0,
+		"mobileLow": 0
+	},
+	"children": [{
+		"_id": "586d23535f07127674158dab",
+		"createdAt": "2017-02-21T17:34:59.778Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b05a",
+		"order": 1,
+		"hide": false,
+		"name": "对话",
+		"updatedAt": "2020-05-21T03:39:37.392Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 120.72,
+		"videoSize": {
+			"mobileMid": 9736,
+			"mobileLow": 9736,
+			"pcMid": 9736,
+			"pcLow": 9736,
+			"pcHigh": 9736
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 120.737959,
+		"audioSize": 1932.269,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5F7F93E7ADC",
+		"audioSavedKey": "3888e5d2fc6dc77b71fecf5c6a73008b.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158dac",
+		"createdAt": "2017-02-21T17:34:59.780Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b05a",
+		"order": 2,
+		"hide": false,
+		"name": "点餐",
+		"updatedAt": "2020-05-21T03:39:40.109Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 958.96,
+		"videoSize": {
+			"mobileLow": 74124,
+			"mobileMid": 74124,
+			"pcMid": 74124,
+			"pcLow": 74124,
+			"pcHigh": 74124
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 958.981224,
+		"audioSize": 15344.161,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5F7FC3E43B8",
+		"audioSavedKey": "b1a33a0b4127cc672ea98a9f0cdd8d86.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158dad",
+		"createdAt": "2017-02-21T17:34:59.782Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b05a",
+		"order": 3,
+		"hide": false,
+		"name": "你爱吃哪国菜？（1）",
+		"updatedAt": "2020-05-21T03:52:17.071Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 846.6,
+		"videoSize": {
+			"mobileLow": 65492,
+			"pcMid": 65492,
+			"pcLow": 65492,
+			"mobileMid": 65492,
+			"pcHigh": 65492
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 846.602449,
+		"audioSize": 13546.101,
+		"audioPersistentId": "z1.0A1E1A185C9055E7F15EC5FAF13F093F",
+		"audioSavedKey": "99bf84220510905cb622339cbfbebc76.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}, {
+		"_id": "586d23535f07127674158dae",
+		"createdAt": "2017-02-21T17:34:59.785Z",
+		"courseId": "586d23485f07127674135d11",
+		"parentId": "586d23555f0712767415b05a",
+		"order": 4,
+		"hide": false,
+		"name": "你爱吃哪国菜？（2）",
+		"updatedAt": "2020-05-21T04:01:54.323Z",
+		"actions": {
+			"watch": true,
+			"download": false
+		},
+		"isPreset": true,
+		"videoDuration": 544.84,
+		"videoSize": {
+			"pcMid": 42208,
+			"mobileLow": 42212,
+			"mobileMid": 42212,
+			"pcLow": 42208,
+			"pcHigh": 42208
+		},
+		"isGeneratingAudio": true,
+		"audioDuration": 544.862041,
+		"audioSize": 8718.254,
+		"audioPersistentId": "z1.0A1E1B437FEB90678E5EC5FD323FCD02",
+		"audioSavedKey": "9f116ed543f364a4fef2f54ab048d693.m3u8",
+		"progress": 0,
+		"hasTopic": false,
+		"opDuration": 5,
+		"edDuration": 9,
+		"quizStatus": {
+			"has_quiz_pack": false,
+			"attempt_status": "Fresh",
+			"quiz_pack_id": "",
+			"attempt_id": ""
+		}
+	}]
+}]
