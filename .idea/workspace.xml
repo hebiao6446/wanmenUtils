@@ -61,4 +61,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595482027689">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="167" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.-90.1920.1057@0.23.1440.877" timestamp="1595482027689" />
+    <state x="280" y="33" key="CommitChangelistDialog2" timestamp="1595482284897">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="280" y="33" key="CommitChangelistDialog2/0.23.1440.877/-1920.-90.1920.1057@0.23.1440.877" timestamp="1595482284897" />
+    <state x="291" y="203" key="IDE.errors.dialog" timestamp="1595482040007">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="291" y="203" key="IDE.errors.dialog/0.23.1440.877/-1920.-90.1920.1057@0.23.1440.877" timestamp="1595482040007" />
+    <state x="303" y="201" key="Vcs.Push.Dialog.v2" timestamp="1595482288721">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="303" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-90.1920.1057@0.23.1440.877" timestamp="1595482288721" />
+    <state x="368" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1595482339236">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="368" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.-90.1920.1057@0.23.1440.877" timestamp="1595482339236" />
+  </component>
 </project>
